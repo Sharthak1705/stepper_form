@@ -256,6 +256,3 @@ npm run dev
 ```bash
 npx nodemon
 ```
-
----
-\
