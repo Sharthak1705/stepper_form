@@ -110,9 +110,9 @@ Inside `server/.env`
 ```env
 PORT=3001
 
-DB_USER=postgres
+DB_USER=DB_Username
 DB_HOST=localhost
-DB_NAME=wellness_app
+DB_NAME=stepper
 DB_PASSWORD=your_password
 DB_PORT=5432
 ```
